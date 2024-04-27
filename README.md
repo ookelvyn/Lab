@@ -1,3 +1,4 @@
-![image](https://github.com/ookelvyn/Lab/assets/30266503/dbef6f7f-8395-49fb-ae78-6a995dd6fce5)
+PROJECT
+This lab describes how you can review Windows Security Virus and threat protection, update threat definitions, and run Windows Defender Antivirus quick scan on your entire computer or a folder.
 
-this is it
+**Microsoft Windows Defender Antivirus**
