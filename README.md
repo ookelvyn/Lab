@@ -26,3 +26,4 @@ Step 7: In the dialog box that pops up, select the folder to be scanned, click S
 In this lesson we will learn to configure firewall rules using Windows Defender Firewall and Windows Defender Firewall with Advanced Security.
 Click the Windows Start button. and then search and select Windows Security.
 Click Firewall & network protection
+Click Windows Start button. Click Windows Security. Click Firewall & network protection. Click Advanced settings. First, select Inbound Rules and scroll down to Windows Remote Management (HTTP-In), inside that update rules. You will see two entries. One is for the domain network and the other is for the public network. Double-click Windows Remote Management (HTTP-In) for the public network. Click Block the connection. Click Ok.*
