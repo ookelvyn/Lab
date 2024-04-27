@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECT - Windows Defender and Firewall
 
 ## Description
 This lab provides instructions for reviewing Windows Security Virus and threat protection, updating threat definitions, and running Windows Defender Antivirus quick scan on your entire computer or a folder.
