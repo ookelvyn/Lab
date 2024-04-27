@@ -20,3 +20,9 @@ Step 4: Click Virus & threat protection.
 Step 5: Click Scan options.  
 Step 6: Select Custom scan and click Scan now.  
 Step 7: In the dialog box that pops up, select the folder to be scanned, click Select Folder.
+
+
+### Windows Defender Firewall
+In this lesson we will learn to configure firewall rules using Windows Defender Firewall and Windows Defender Firewall with Advanced Security.
+Click the Windows Start button. and then search and select Windows Security.
+Click Firewall & network protection
