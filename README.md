@@ -48,9 +48,13 @@ Step 3: Click on Windows Security on the left panel, and click Firewall & networ
 ![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/0fee683b-72e6-47be-906e-77271e4070a7)
 
 **Domain network:** Domain networks are workplace networks. A computer must be a part of the domain in order to communicate with other computers on that network. 
+
 **Private network:** Private networks are discoverable networks, meaning that only devices on that network can see or discover other devices on that same network. Home networks are a good example of a private network. 
+
 **Public network:** Public networks are non-discoverable networks. A non-discoverable network is a network where your device cannot be discovered by other devices on your network. A coffee shop or a library would be a good example of a public network. You do not want other individuals to be able to discover your device.
+
 **Allow an app through firewall:** This feature pops up a list of applications that have requested access through the firewall, and you can choose to allow or deny their access. This feature is useful for ensuring that only trusted applications can communicate over the network, helping to enhance the security of your system.
+
 
 Step 4: To better manage your applciation on firewall, Click Advanced settings seen on the screenshot above
 ![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/6661cfe4-1c88-4a8d-8b71-4b599f6edcd3)
