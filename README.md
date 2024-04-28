@@ -1,16 +1,24 @@
 # PROJECT - Windows Defender and Firewall
 
 ## Description
-This lab provides instructions for reviewing Windows Security Virus and threat protection, updating threat definitions, and running Windows Defender Antivirus quick scan on your entire computer or a folder.
+This project provides instructions for reviewing Windows Security Virus and threat protection, updating threat definitions, and running Windows Defender Antivirus quick scan on an entire computer or a folder.
 
 ### Microsoft Windows Defender Antivirus
 
 #### To Run a Quick Scan on Your Computer using MS Defender Antivirus:
 Step 1: Click on the Windows button and go to Settings.  
+![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/03fdeebd-59f2-4663-8d03-990b71065d92)
+
 Step 2: Click Update & Security.  
+![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/1dc88d46-f4b8-43ee-9b33-411d9f88b1b6)
+
 Step 3: Click on Windows Security on the left panel.  
-Step 4: Click Virus & threat protection.  
+Step 4: Click Virus & threat protection.
+![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/73c66fa1-6d36-472f-bc19-9f751bb14b96)
+
 Step 5: Click the Quick scan button on the Virus & threat protection screen. After the scan completes, click Threat history to view findings if any.
+![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/fef6b582-d196-4b91-a114-0a7626f75101)
+
 
 #### To Scan Just a Folder:
 Step 1: Click on the Windows button and go to Settings.  
@@ -23,7 +31,7 @@ Step 7: In the dialog box that pops up, select the folder to be scanned, click S
 
 
 ### Windows Defender Firewall
-In this lesson we will learn to configure firewall rules using Windows Defender Firewall and Windows Defender Firewall with Advanced Security.
+### This phase describes how to configure firewall rules using Windows Defender Firewall and Windows Defender Firewall with Advanced Security.
 Click the Windows Start button. and then search and select Windows Security.
 Click Firewall & network protection
-Click Windows Start button. Click Windows Security. Click Firewall & network protection. Click Advanced settings. First, select Inbound Rules and scroll down to Windows Remote Management (HTTP-In), inside that update rules. You will see two entries. One is for the domain network and the other is for the public network. Double-click Windows Remote Management (HTTP-In) for the public network. Click Block the connection. Click Ok.*
+Click Advanced settings. First, select Inbound Rules and scroll down to Windows Remote Management (HTTP-In), inside that update rules. You will see two entries. One is for the domain network and the other is for the public network. Double-click Windows Remote Management (HTTP-In) for the public network. Click Block the connection. Click Ok.*
