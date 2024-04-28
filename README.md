@@ -61,3 +61,6 @@ Step 4: To better manage your applciation on firewall, Click Advanced settings s
 
 Step 5: Right-click on any application on either Outbound or Inbound and select properties
 ![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/2cd81f8a-6beb-4498-8053-605ec6e6b32f)
+
+![image](https://github.com/ookelvyn/Microsoft-Windows-Defender-and-Firewall/assets/30266503/b7a008c6-6600-4dc6-94d9-efa0c3dc0be1)
+
